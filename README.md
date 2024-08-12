@@ -2,4 +2,4 @@
 
 # Technology Used 
 
-* [![PYTHON](https://img.shields.io/badge/PYTHON-3-blue)](https://developer.mozilla.org/en-US/docs/Web/PYTHON)
+* [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
